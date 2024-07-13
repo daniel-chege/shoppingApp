@@ -1,0 +1,9 @@
+{
+    "name": "ShoppingApp",
+    "short_name": "ShoppingApp",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url":"/shoppingApp/",
+    "display": "standalone",
+    "orientation":"potrait"
+}
